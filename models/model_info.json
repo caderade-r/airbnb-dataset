@@ -1,0 +1,23 @@
+{
+  "classes": [
+    "AU",
+    "CA",
+    "DE",
+    "ES",
+    "FR",
+    "GB",
+    "IT",
+    "NDF",
+    "NL",
+    "PT",
+    "US",
+    "other"
+  ],
+  "seed": 42,
+  "train_users": 170760,
+  "validation_users": 42691,
+  "model": "RandomForestClassifier",
+  "n_estimators": 65,
+  "max_depth": 17,
+  "min_samples_leaf": 6
+}
