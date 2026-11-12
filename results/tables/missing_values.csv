@@ -1,0 +1,17 @@
+column,missing_count,missing_percent
+id,0,0.0
+date_account_created,0,0.0
+timestamp_first_active,0,0.0
+date_first_booking,124543,58.35
+gender,0,0.0
+age,87990,41.22
+signup_method,0,0.0
+signup_flow,0,0.0
+language,0,0.0
+affiliate_channel,0,0.0
+affiliate_provider,0,0.0
+first_affiliate_tracked,6065,2.84
+signup_app,0,0.0
+first_device_type,0,0.0
+first_browser,0,0.0
+country_destination,0,0.0

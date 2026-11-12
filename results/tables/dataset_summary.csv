@@ -1,0 +1,7 @@
+,value
+train_users,213451.0
+columns,16.0
+destination_classes,12.0
+missing_age_percent,41.22
+invalid_age_count,2503.0
+ndf_percent,58.35
